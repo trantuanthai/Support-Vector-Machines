@@ -1,4 +1,4 @@
-# Practice Week 6 - Support Vecto Machine
+# Practice Week 6 - Support Vector Machines
 
 Authors:
 - Trần Tuấn Thái - ID: 20280082
