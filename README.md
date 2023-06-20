@@ -6,5 +6,3 @@ Thông tin nhóm:
 - Lớp: 20TH_KHDL
 
 Bài làm được thực hiện trên Google Colab
-
----
