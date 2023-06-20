@@ -1,9 +1,9 @@
-# Bài thực hành nhóm Tuần 6 - Support Vecto Machine
+# Practice Week 6 - Support Vecto Machine
 
-Thông tin nhóm:
-- Trần Tuấn Thái - MSSV: 20280082
-- Huỳnh Quang Trung - MSSV: 20280108
-- Lớp: 20TH_KHDL
+Authors:
+- Trần Tuấn Thái - ID: 20280082
+- Huỳnh Quang Trung - ID: 20280108
+- Class: 20TH_KHDL
 
 Requirements:
 - Apply all knowledge and techniques that you have learned for this
